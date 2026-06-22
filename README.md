@@ -120,14 +120,14 @@ Actions performed:
 
 | Issue                           | Count |
 | ------------------------------- | ----- |
-| Original Records                | 934   |
+| Original Records                | 933   |
 | Final Cleaned Records           | 913   |
-| Exact Duplicate Records Removed | 21    |
+| Exact Duplicate Records Removed | 20    |
 | Missing Region Values Fixed     | 26    |
 | Missing Ship Mode Values Fixed  | 22    |
 | Missing Discount Values Fixed   | 18    |
 | Invalid Discount Records        | 16    |
-| Duplicate Order ID Occurrences  | 63    |
+| Duplicate Order ID Occurrences  | 31    |
 | Invalid Shipping Records        | 93    |
 
 ---
